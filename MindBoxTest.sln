@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTest.Figure", "MindBoxTest.Figure\MindBoxTest.Figure.csproj", "{3C6DBB66-3F1F-4699-9E2C-4443C192A277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTest.Figure.Test", "MindBoxTest.Figure.Test\MindBoxTest.Figure.Test.csproj", "{FE250133-683A-409B-9D4A-AD1E29A06BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6DBB66-3F1F-4699-9E2C-4443C192A277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6DBB66-3F1F-4699-9E2C-4443C192A277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6DBB66-3F1F-4699-9E2C-4443C192A277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6DBB66-3F1F-4699-9E2C-4443C192A277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE250133-683A-409B-9D4A-AD1E29A06BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE250133-683A-409B-9D4A-AD1E29A06BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE250133-683A-409B-9D4A-AD1E29A06BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE250133-683A-409B-9D4A-AD1E29A06BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E10416-E83B-47D9-A542-704BE4EA58F9}
+	EndGlobalSection
+EndGlobal
